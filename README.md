@@ -1,6 +1,11 @@
 # TP TADP Metaprogramación
 
-Desarrollo de un Framework de Testing mediante la utilización de Metaprogramación.
+Desarrollo de un Framework de Testing mediante la utilización de conceptos de Metaprogramación.
+
+## Features
+- Unit Testing
+- Mocks
+- Spies
 
 ## Enunciado
 
