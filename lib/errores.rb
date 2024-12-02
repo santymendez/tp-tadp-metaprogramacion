@@ -1,0 +1,2 @@
+class FalloTestError < StandardError
+end
